@@ -1,0 +1,26 @@
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.upload_git/
+upload_git_tmp*/
+
+# IDE/local files
+.idea/
+.vscode/
+
+# Datasets and generated predictions
+data/*/
+data/*.zip
+pred_maps/
+pred_maps_old/
+
+# Model checkpoints and pretrained weights
+*.pt
+*.pth
+scwssod/
+
+# Training outputs
+runs/
+repeat_runs/
+*.tfevents.*

@@ -1,0 +1,5 @@
+INFO 2026-04-19 22:45:11 test.py: 118] [scwssod_fusion_larger_weighted_e39] ECSSD MAE=0.051063, F-score=0.908052, len(imgs)=1000, fps=118.1372
+INFO 2026-04-19 22:46:02 test.py: 118] [scwssod_fusion_larger_weighted_e39] PASCAL MAE=0.126676, F-score=0.863110, len(imgs)=850, fps=120.8978
+INFO 2026-04-19 22:49:43 test.py: 118] [scwssod_fusion_larger_weighted_e39] THUR MAE=0.074987, F-score=0.764657, len(imgs)=6232, fps=123.6079
+INFO 2026-04-19 22:54:35 test.py: 118] [scwssod_fusion_larger_weighted_e39] DUT MAE=0.073829, F-score=0.747996, len(imgs)=5168, fps=122.3611
+INFO 2026-04-19 22:59:03 test.py: 118] [scwssod_fusion_larger_weighted_e39] DUTS_Test MAE=0.063120, F-score=0.794742, len(imgs)=5018, fps=123.6960

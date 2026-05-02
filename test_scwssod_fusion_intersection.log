@@ -1,0 +1,5 @@
+INFO 2026-04-04 01:50:45 test.py: 118] [scwssod_fusion_intersection] ECSSD MAE=0.062066, F-score=0.896414, len(imgs)=1000, fps=48.3323
+INFO 2026-04-04 01:52:12 test.py: 118] [scwssod_fusion_intersection] PASCAL MAE=0.135568, F-score=0.847930, len(imgs)=850, fps=51.4897
+INFO 2026-04-04 01:58:48 test.py: 118] [scwssod_fusion_intersection] THUR MAE=0.073075, F-score=0.769830, len(imgs)=6232, fps=48.8913
+INFO 2026-04-04 02:06:57 test.py: 118] [scwssod_fusion_intersection] DUT MAE=0.075709, F-score=0.741754, len(imgs)=5168, fps=48.3119
+INFO 2026-04-04 02:14:25 test.py: 118] [scwssod_fusion_intersection] DUTS_Test MAE=0.068436, F-score=0.782185, len(imgs)=5018, fps=49.8218
